@@ -1,2 +1,4 @@
 # creative-writing-ai
-A small creative writing project using Github
+
+This repository contains short poems and stories created as part of a GitHub assignment.
+
